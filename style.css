@@ -186,3 +186,11 @@ main{
     color: var(--clr-white);
     background: var(--clr-black);
 }
+
+.input{
+    background: transparent;
+    width: 8em;
+    height: 33px;
+    position: relative;
+    bottom: 7px;
+}
